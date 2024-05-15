@@ -15,3 +15,6 @@ func testA(){
 
 func mianC(){
 }
+
+
+func mainD(){}
