@@ -12,3 +12,5 @@ func mainB(){}
 func feat_b(){}
 
 func mainC(){}
+
+func mainD(){}
