@@ -8,3 +8,5 @@ func main() {
 
 
 func mainB(){}
+
+func feat_b(){}
