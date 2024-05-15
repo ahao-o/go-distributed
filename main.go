@@ -8,3 +8,7 @@ func main() {
 
 func mainB(){
 }
+
+
+func testA(){
+}
