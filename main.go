@@ -15,3 +15,8 @@ func test() {
 func test2() {
 	fmt.Println("ok")
 }
+
+func test3() {
+	fmt.Println("ok")
+
+}
