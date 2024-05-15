@@ -17,4 +17,9 @@ func mianC(){
 }
 
 
+func testB(){
+
+}
+
+
 func mainD(){}
