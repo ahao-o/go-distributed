@@ -8,3 +8,6 @@ func main() {
 
 func mainB(){
 }
+
+func mianC(){
+}
